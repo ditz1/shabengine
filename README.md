@@ -37,6 +37,21 @@ make mac
 ```
 
 ---
+### Game Info
+##### this is subject to change
+Testing Controls <br />
+A - move left <br />
+D - move right <br />
+W - punch <br />
+S - sweep <br />
+Q - kick <br />
+E - uppercut <br />
+F - block <br />
+R - low block <br />
+
+left_arrow - move left <br />
+right_arrow - move right <br />
+
 
 ### Engine Info
 By default, the engine will run in debug mode <br />
