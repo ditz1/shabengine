@@ -5,11 +5,11 @@
 
 Clone the SHABFIGHT repository to your local machine using the following commands:
 ---
-\```bash
+```bash
 git clone [Repository URL]
 cd [download-directory]
 cd build
-\```
+```
 
 **By default, the Makefile is configured for Windows.**
 
@@ -19,18 +19,18 @@ cd build
 
 Open PowerShell and run:
 
-\```powershell
+```powershell
 make
 ./shabgame.exe
-\```
+```
 
 #### For Mac
 
 Open Terminal and run:
 
-\```bash
+```bash
 make mac
 ./shabgame
-\```
+```
 
 ---
