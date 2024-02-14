@@ -39,10 +39,10 @@ make mac
 ---
 
 ### Engine Info
-By default, the engine will run in debug mode.
-In debug mode, by default the engine will draw bones.
-Press V to toggle bone drawing,
-Press B to toggle debug mode,
+By default, the engine will run in debug mode <br />
+In debug mode, by default the engine will draw bones <br />
+Press V to toggle bone drawing <br />
+Press B to toggle debug mode <br />
 
 #### Made using Raylib
 [https://www.raylib.com/]
