@@ -26,6 +26,9 @@ make
 
 #### For Mac
 
+**the library for used for the mac build is built on arm, if you have an x86_64 mac you will get linker errors and may need to build raylib library**
+--will fix soon 
+
 Open Terminal and run:
 
 ```bash
