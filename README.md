@@ -13,7 +13,7 @@ PS:  make \
 PS: ./shabgame.exe \
 
 *Mac*
-$ make mac \
-$ ./shabgame \
+$ make mac \n
+$ ./shabgame \n
 
 
