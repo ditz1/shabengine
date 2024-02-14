@@ -4,7 +4,7 @@
 ### Installation
 
 Clone the SHABFIGHT repository to your local machine using the following commands:
-
+---
 \```bash
 git clone [Repository URL]
 cd [download-directory]
