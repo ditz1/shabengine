@@ -26,7 +26,7 @@ make
 
 #### For Mac
 
-**the library for used for the mac build was compiled on arm, if you have an x86_64 mac you will get linker errors**
+**the library used for the mac build was compiled on arm, if you have an x86_64 mac you will get linker errors**
 --will fix soon 
 
 Open Terminal and run:
